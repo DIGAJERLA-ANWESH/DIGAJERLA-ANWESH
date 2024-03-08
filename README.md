@@ -1,4 +1,4 @@
-[![MasterHead](https://https://github.com/DIGAJERLA-ANWESH/DIGAJERLA-ANWESH/blob/main/ANWESH%20DIGAJERLA%20(1).png?raw=true)]
+[![MasterHead](https://github.com/DIGAJERLA-ANWESH/DIGAJERLA-ANWESH/blob/main/ANWESH%20DIGAJERLA%20(1).png?raw=true)]
 
 
 <h1 align="center">Hi 👋, I'm Anwesh Digajerla</h1>
