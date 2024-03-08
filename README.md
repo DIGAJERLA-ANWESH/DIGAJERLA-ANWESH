@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/DIGAJERLA-ANWESH/DIGAJERLA-ANWESH/blob/main/ANWESH%20DIGAJERLA%20(1).png?raw=true" alt="MasterHead">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DIGAJERLA-ANWESH/DIGAJERLA-ANWESH/blob/main/ANWESH%20DIGAJERLA%20(1).png?raw=true" alt="MasterHead">
+</div>
 
 
 
