@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-    <img src="https://github.com/DIGAJERLA-ANWESH/DIGAJERLA-ANWESH/blob/main/ANWESH%20DIGAJERLA%20(1).png?raw=true" alt="MasterHead">
-</div>
+<img align="center" src="https://github.com/DIGAJERLA-ANWESH/DIGAJERLA-ANWESH/blob/main/ANWESH%20DIGAJERLA%20(1).png?raw=true" alt="MasterHead">
+
 
 
 <h1 align="center">Hi 👋, I'm Anwesh Digajerla</h1>
